@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPlus } from '@fortawesome/free-solid-svg-icons'
-// import { SocialIcon } from 'react-social-icons';
+import { SocialIcon } from 'react-social-icons';
 import './Winner.css';
 
 const Winner = (props) => {
@@ -21,11 +21,11 @@ const Winner = (props) => {
             onClick={() => props.handleAddToCard(props.winner)}
             >{cardIcon} Click Here to Add</button></div>
 
-            {/* <p className='icon'>
-                <span><SocialIcon url="https://facebook.com/in/jaketrent" /></span>
-                <span><SocialIcon url="https://linkedin.com/in/jaketrent" /></span>
-                <span><SocialIcon url="https://twitter.com/in/jaketrent" /></span>
-            </p> */}
+            <p className='icon'>
+                <span><SocialIcon className="icons" target="_blank" url="https://www.facebook.com/zuck" /></span>
+                <span><SocialIcon className="icons" target="_blank" url="https://www.linkedin.com/in/mark-zuckerberg-618bba58/" /></span>
+                <span><SocialIcon className="icons" target="_blank"url="https://twitter.com/finkd?lang=en" /></span>
+            </p>
 
             
             

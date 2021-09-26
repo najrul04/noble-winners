@@ -16,7 +16,7 @@ const Card = (props) => {
 
     return (
         <div>
-        <h3 className="nobel_winner_list">Added Winners</h3>
+        <h3 className="nobel_winner_list">Add Winners</h3>
         <h5>Nobel Winners: {props.card.length}</h5>
         <h5>Total Cost: {total}</h5>
         <div>
