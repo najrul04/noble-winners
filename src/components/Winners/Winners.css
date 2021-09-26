@@ -1,0 +1,24 @@
+.winners_container{
+
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 0 50px;
+
+}
+
+.winner_container{
+
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.achievement_container{
+
+    margin-left: 20px;
+    font-size: 25px;
+
+}
