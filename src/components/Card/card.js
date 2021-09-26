@@ -24,7 +24,7 @@ const Card = (props) => {
         {
                     newName.map(winner => <p className='added_winner'> <img src={winner.img} alt="" width="100" height="100"></img><br />
                     
-                    key = {winner.card}
+                        
                         {winner.name}
                     </p>)
                 }
