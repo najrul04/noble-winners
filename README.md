@@ -1,70 +1,32 @@
 # Famous Nobel Prize Winners
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the live link of the project that I have created for the assignment i have given "https://nobel-price-winners.netlify.app/"
 
-## Available Scripts
+## What is used in this Project:
 
-In the project directory, you can run:
+In this project i have used several things. Explantion of these things have given below:
 
-### `npm start`
+--- React
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+--- Css
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+--- JS
 
-### `npm test`
+React was the main base of this project and in the middle I had to use CSS and JS to give it a proper dynamic look. Other than that I have used some other thing, which are:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+--- Font Awesome
 
-### `npm run build`
+--- React Social Media
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+So, these are the things I had to use in this project.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### What is this website for?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This is a website for you to see some great minds among the universe who had been rewarded for thir work. 
 
-### `npm run eject`
+You will see Einstein for the theory of reletivity. 
+Mother Teresa for her amazing work for human.
+Marie Curie for giving us the light of the physics and chemistry. She was the only woman who got Nobel in 2 different categories too and many other great men and woman who have given us so much more.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+So it is a website for making a get together of the greatest mind on earht and you will get to know about them to be inspired and inspire others.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
