@@ -29,7 +29,7 @@ const Card = (props) => {
                     </p>)
                 }
 
-        </div>
+            </div>
         </div>
     );
 };

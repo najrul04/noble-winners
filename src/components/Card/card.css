@@ -1,23 +1,16 @@
-.nobel_winner_list{
-
-    text-align: center;
-
+.nobel_winner_list {
+  text-align: center;
 }
 
-h5{
-
-    text-align: center;
-
+h5 {
+  text-align: center;
 }
-.added_winner{
-
-    text-align: center;
-
+.added_winner {
+  text-align: center;
 }
-.added_winner img{
-    width: 250px;   
-    border: 2px solid #800080;
-    margin: 2px;
-    padding: 2px;
-
+.added_winner img {
+  width: 250px;
+  border: 2px solid #800080;
+  margin: 2px;
+  padding: 2px;
 }
